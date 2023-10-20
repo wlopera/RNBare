@@ -52,6 +52,8 @@
   <key>UIStatusBarStyle</key>
   <string>UIStatusBarStyleDefault</string>
   <key>CADisableMinimumFrameDurationOnPhone</key>
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>Necesitamos tu permiso para uso de localización</string>
   <true/>
 </dict>
 </plist>
